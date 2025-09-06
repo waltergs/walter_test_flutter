@@ -26,3 +26,8 @@ No es necesario ejecutar build_runner — los adapters de Hive están hechos man
 - Unit & Widget:
   ```bash
   flutter test
+
+## Integration Test
+- Unit & Widget:
+  ```bash
+  flutter test integration_test
